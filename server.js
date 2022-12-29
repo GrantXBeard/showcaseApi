@@ -128,8 +128,20 @@ app.locals.work = [
     { id: 120, description: 'small drawing', img: 'https://i.ibb.co/MhPHf0v/IMG-3200-Large.jpg', type: 'drawing'},
     { id: 122, description: 'medium mixed media collage', img: 'https://i.ibb.co/7g0KNpQ/IMG-3197-Large.jpg', type: 'mixed media'},
     { id: 123, description: 'small drawing', img: 'https://i.ibb.co/PCg1SBq/IMG-3203-Large.jpg', type: 'drawing'},
+    { id: 124, description: '', img: 'https://ibb.co/pZQPfSj', type: 'photography'},
+    { id: 125, description: '', img: 'https://ibb.co/BV35myW', type: 'photography'},
+    { id: 126, description: '', img: 'https://ibb.co/fGh6g7Y', type: 'photography'},
+    { id: 127, description: '', img: 'https://ibb.co/dJvxWR1', type: 'photography'},
+    { id: 128, description: '', img: 'https://ibb.co/n0n7Hbq', type: 'photography'},
+    { id: 129, description: '', img: 'https://ibb.co/3hMRRgY', type: 'photography'},
+    { id: 130, description: '', img: 'https://ibb.co/z5C9rPb', type: 'photography'},
+    { id: 131, description: '', img: 'https://ibb.co/2KV27Hs', type: 'photography'},
+    { id: 132, description: '', img: 'https://ibb.co/xzGt2bt', type: 'photography'},
+    { id: 133, description: '', img: 'https://ibb.co/3vfLmr3', type: 'photography'},
+    { id: 134, description: '', img: 'https://ibb.co/Bqs4jW4', type: 'photography'},
+    { id: 135, description: '', img: 'https://ibb.co/f0wyZ0T', type: 'photography'}
   ] 
-// { id: "", description: '', img: '', type: ''},
+// { id: , description: '', img: '', type: ''},
 
 
 
