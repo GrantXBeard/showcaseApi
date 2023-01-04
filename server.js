@@ -143,7 +143,6 @@ app.locals.work = [
     { id: 136, description: '', img: 'https://i.ibb.co/KV7p5gp/DSC-4488.jpg', type: 'photography'},
     { id: 137, description: '', img: 'https://i.ibb.co/1vKv9Vk/DSC-4996.jpg', type: 'photography'},
     { id: 138, description: '', img: 'https://i.ibb.co/YTznCG7/DSC-4697.jpg', type: 'photography'},
-    { id: 139, description: '', img: 'https://i.ibb.co/6NKd0d4/DSC-2159.jpg', type: 'photography'},
     { id: 140, description: '', img: 'https://i.ibb.co/9sYw2Kw/DSC-4231.jpg', type: 'photography'},
     { id: 141, description: '', img: 'https://i.ibb.co/ysjZKsx/DSC-4374.jpg', type: 'photography'},
     { id: 142, description: '', img: 'https://i.ibb.co/p4sMRPz/DSC-1584.jpg', type: 'photography'},
